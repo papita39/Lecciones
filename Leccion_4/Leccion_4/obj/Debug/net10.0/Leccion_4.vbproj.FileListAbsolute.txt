@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Leccion_4\Leccion_4\bin\Debug\net10.0\Leccion_4.exe
+C:\Users\user\source\repos\Leccion_4\Leccion_4\bin\Debug\net10.0\Leccion_4.deps.json
+C:\Users\user\source\repos\Leccion_4\Leccion_4\bin\Debug\net10.0\Leccion_4.runtimeconfig.json
+C:\Users\user\source\repos\Leccion_4\Leccion_4\bin\Debug\net10.0\Leccion_4.dll
+C:\Users\user\source\repos\Leccion_4\Leccion_4\bin\Debug\net10.0\Leccion_4.pdb
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.AssemblyInfo.vb
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.dll
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\refint\Leccion_4.dll
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.pdb
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\Leccion_4.genruntimeconfig.cache
+C:\Users\user\source\repos\Leccion_4\Leccion_4\obj\Debug\net10.0\ref\Leccion_4.dll

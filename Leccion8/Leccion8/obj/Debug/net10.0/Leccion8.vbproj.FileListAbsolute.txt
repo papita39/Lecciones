@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Leccion8\Leccion8\bin\Debug\net10.0\Leccion8.exe
+C:\Users\user\source\repos\Leccion8\Leccion8\bin\Debug\net10.0\Leccion8.deps.json
+C:\Users\user\source\repos\Leccion8\Leccion8\bin\Debug\net10.0\Leccion8.runtimeconfig.json
+C:\Users\user\source\repos\Leccion8\Leccion8\bin\Debug\net10.0\Leccion8.dll
+C:\Users\user\source\repos\Leccion8\Leccion8\bin\Debug\net10.0\Leccion8.pdb
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.AssemblyInfo.vb
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.dll
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\refint\Leccion8.dll
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.pdb
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.genruntimeconfig.cache
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\ref\Leccion8.dll
+C:\Users\user\source\repos\Leccion8\Leccion8\obj\Debug\net10.0\Leccion8.vbproj.Up2Date

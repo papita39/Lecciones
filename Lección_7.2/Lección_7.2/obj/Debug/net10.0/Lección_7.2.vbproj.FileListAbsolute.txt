@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.AssemblyInfo.vb
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\bin\Debug\net10.0\Lección_7.2.exe
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\bin\Debug\net10.0\Lección_7.2.deps.json
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\bin\Debug\net10.0\Lección_7.2.runtimeconfig.json
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\bin\Debug\net10.0\Lección_7.2.dll
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\bin\Debug\net10.0\Lección_7.2.pdb
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.dll
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\refint\Lección_7.2.dll
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.pdb
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lección_7.2.genruntimeconfig.cache
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\ref\Lección_7.2.dll
+C:\Users\user\source\repos\Lección_7.2\Lección_7.2\obj\Debug\net10.0\Lecci_n_.A3D2D321.Up2Date
