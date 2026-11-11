@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\bin\Debug\net10.0\ConsoleApp18391.exe
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\bin\Debug\net10.0\ConsoleApp18391.deps.json
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\bin\Debug\net10.0\ConsoleApp18391.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\bin\Debug\net10.0\ConsoleApp18391.dll
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\bin\Debug\net10.0\ConsoleApp18391.pdb
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.AssemblyInfo.vb
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.sourcelink.json
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.dll
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\refint\ConsoleApp18391.dll
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.pdb
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleApp18391.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ref\ConsoleApp18391.dll
+C:\Users\user\source\repos\ConsoleApp18391\ConsoleApp18391\obj\Debug\net10.0\ConsoleA.CB27FA70.Up2Date

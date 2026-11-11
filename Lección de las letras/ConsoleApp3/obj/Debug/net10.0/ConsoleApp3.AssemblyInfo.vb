@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp3"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc14e6e1d25f19dccaa468c78b09460002ffe0ba"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp3"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp3"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Calculadora v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBB5B25-006F-477F-9323-2E91161C0115}|Calculadora v3\\Calculadora v3.vbproj|c:\\users\\user\\source\\repos\\calculadora v3\\calculadora v3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CBB5B25-006F-477F-9323-2E91161C0115}|Calculadora v3\\Calculadora v3.vbproj|solutionrelative:calculadora v3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Calculadora v3\\Calculadora v3\\Program.vb",
+              "RelativeDocumentMoniker": "Calculadora v3\\Program.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Calculadora v3\\Calculadora v3\\Program.vb",
+              "RelativeToolTip": "Calculadora v3\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-10T22:41:55.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

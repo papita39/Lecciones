@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\bin\Debug\net10.0\Calculadora V3.3.exe
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\bin\Debug\net10.0\Calculadora V3.3.deps.json
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\bin\Debug\net10.0\Calculadora V3.3.runtimeconfig.json
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\bin\Debug\net10.0\Calculadora V3.3.dll
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\bin\Debug\net10.0\Calculadora V3.3.pdb
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.AssemblyInfo.vb
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.sourcelink.json
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.dll
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\refint\Calculadora V3.3.dll
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.pdb
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculadora V3.3.genruntimeconfig.cache
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\ref\Calculadora V3.3.dll
+C:\Users\user\source\repos\Calculadora V3.3\Calculadora V3.3\obj\Debug\net10.0\Calculad.3D4870DB.Up2Date

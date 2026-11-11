@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\bin\Debug\net10.0\MiniPractica 2.exe
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\bin\Debug\net10.0\MiniPractica 2.deps.json
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\bin\Debug\net10.0\MiniPractica 2.runtimeconfig.json
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\bin\Debug\net10.0\MiniPractica 2.dll
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\bin\Debug\net10.0\MiniPractica 2.pdb
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.AssemblyInfo.vb
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.sourcelink.json
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.dll
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\refint\MiniPractica 2.dll
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.pdb
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPractica 2.genruntimeconfig.cache
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\ref\MiniPractica 2.dll
+C:\Users\user\source\repos\MiniPractica 2\MiniPractica 2\obj\Debug\net10.0\MiniPrac.A01F0B6C.Up2Date

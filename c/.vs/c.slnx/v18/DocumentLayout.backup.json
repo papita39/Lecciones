@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641E211A-773A-F4C6-B084-E6606359CD6D}|c\\c.vbproj|c:\\users\\user\\source\\repos\\c\\c\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{641E211A-773A-F4C6-B084-E6606359CD6D}|c\\c.vbproj|solutionrelative:c\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\c\\c\\Program.vb",
+              "RelativeDocumentMoniker": "c\\Program.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\c\\c\\Program.vb",
+              "RelativeToolTip": "c\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-29T15:53:31.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

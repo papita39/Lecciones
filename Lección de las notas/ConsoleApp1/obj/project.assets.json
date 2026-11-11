@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Lección de las notas\\ConsoleApp1\\ConsoleApp1.vbproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.vbproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Lección de las notas\\ConsoleApp1\\ConsoleApp1.vbproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\Lección de las notas\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

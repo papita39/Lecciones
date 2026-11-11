@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\List (Of String)\List (Of String)\bin\Debug\net10.0\List (Of String).exe
+C:\Users\user\source\repos\List (Of String)\List (Of String)\bin\Debug\net10.0\List (Of String).deps.json
+C:\Users\user\source\repos\List (Of String)\List (Of String)\bin\Debug\net10.0\List (Of String).runtimeconfig.json
+C:\Users\user\source\repos\List (Of String)\List (Of String)\bin\Debug\net10.0\List (Of String).dll
+C:\Users\user\source\repos\List (Of String)\List (Of String)\bin\Debug\net10.0\List (Of String).pdb
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).AssemblyInfo.vb
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).sourcelink.json
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).dll
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\refint\List (Of String).dll
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).pdb
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of String).genruntimeconfig.cache
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\ref\List (Of String).dll
+C:\Users\user\source\repos\List (Of String)\List (Of String)\obj\Debug\net10.0\List (Of.C43FA4D1.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\c\c\bin\Debug\net10.0\c.exe
+C:\Users\user\source\repos\c\c\bin\Debug\net10.0\c.deps.json
+C:\Users\user\source\repos\c\c\bin\Debug\net10.0\c.runtimeconfig.json
+C:\Users\user\source\repos\c\c\bin\Debug\net10.0\c.dll
+C:\Users\user\source\repos\c\c\bin\Debug\net10.0\c.pdb
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.AssemblyInfo.vb
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.sourcelink.json
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.dll
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\refint\c.dll
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.pdb
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.genruntimeconfig.cache
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\ref\c.dll
+C:\Users\user\source\repos\c\c\obj\Debug\net10.0\c.vbproj.Up2Date
